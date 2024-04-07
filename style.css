@@ -1,0 +1,198 @@
+* {
+    padding: 0;
+    margin: 1;
+}
+
+#head {
+    background-color: rgb(61, 58, 58);
+    color: white;
+    width: auto;
+    position: sticky;
+    top: 0px;
+}
+
+#t {
+    margin-left: 4%;
+    padding-top: 2%;
+}
+
+#TOP {
+    margin-left: 70%;
+    padding-bottom: 1%;
+}
+
+#op {
+    padding: 1%;
+
+    margin-left: 35%;
+    margin-right: 20%;
+}
+
+#tp {
+    margin-left: 43%;
+    margin-right: 37%;
+    margin-bottom: 2%;
+}
+
+#first {
+    width: 70%;
+    height: 50%;
+    margin-left: 17%;
+}
+
+/* section-01 */
+#second {
+    margin-left: 25%;
+    border-radius: 10px;
+}
+
+#third {
+    margin-left: 2%;
+}
+
+#forth {
+    margin-left: 20%;
+}
+
+/* section-02 */
+
+.para {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 200%;
+}
+
+#oneheading {
+    margin-left: 25%;
+    font-weight: bold;
+    font-size: 290%;
+}
+
+#five {
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+
+#paraT {
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+ul {
+    margin-left: 25%;
+}
+
+li {
+    font-weight: 400;
+    font-size: 170%;
+}
+
+.table {
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 130%;
+}
+
+#parag {
+    font-weight: 800;
+    margin-left: 25%;
+}
+
+#line {
+    width: 50%;
+    color: black;
+}
+
+#pic {
+    border-radius: 40px;
+    margin-left: 25%;
+    display: inline-block;
+}
+
+#set {
+    display: inline-block;
+    font-weight: 200;
+    font-size: 120%;
+}
+
+.img {
+    display: inline-block;
+}
+
+#imgo {
+    float: left;
+}
+
+#imgth {
+    float: right;
+}
+
+#imgt {
+    margin-left: 5%;
+}
+
+#pico {
+    float: left;
+
+}
+
+#picth {
+    float: right;
+}
+
+#pict {
+    margin-left: 5%;
+}
+
+/* problem */
+.font {
+    font-weight: 600;
+    font-size: 1.2em;
+    display: inline-block;
+    display: flex;
+}
+
+#po {
+    float: left;
+    margin-left: 3%;
+}
+
+#pth {
+    position: absolute;
+    float: right;
+    margin-bottom: 50%;
+    margin-left: 80%;
+}
+
+#pt {
+    margin-left: 40%;
+}
+
+.fontt {
+    font-weight: 600;
+    font-size: 1.2em;
+    display: inline-block;
+}
+
+#o {
+    float: left;
+    margin-left: 3%;
+}
+
+#tt {
+    margin-left: 20%;
+    margin-bottom: 0%;
+}
+
+#th {
+    position: absolute;
+    float: right;
+    margin-bottom: 50%;
+    margin-left: 20%;
+}
+
+/* problem */
